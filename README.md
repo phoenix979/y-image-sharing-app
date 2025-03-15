@@ -90,12 +90,7 @@ cd y-image-sharing-app
    npm install
    ```
 
-3. Create a `.env` file in the frontend directory:
-   ```
-   REACT_APP_API_URL=http://localhost:3001/v1
-   ```
-
-4. Start the frontend development server:
+3. Start the frontend development server:
    ```bash
    yarn start
    # or

@@ -1,0 +1,18 @@
+# General exclusions
+node_modules/
+dist/
+uploads/
+*.log
+.DS_Store
+.env
+.env.local
+
+# Frontend-specific
+/frontend/node_modules/
+/frontend/.next/
+/frontend/out/
+
+# Backend-specific
+/backend/node_modules/
+/backend/dist/
+/backend/uploads/
